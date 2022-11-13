@@ -1,0 +1,6 @@
+# Initial README before a comprehensive one
+...
+
+...
+
+/Owinnie

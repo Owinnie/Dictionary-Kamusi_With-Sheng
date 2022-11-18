@@ -24,7 +24,7 @@ words2 = Table(
     Column('ssent', String(455)),
 )
 
-words2 = Table(
+words3 = Table(
     'iWords', meta,
     Column('word', String(355), primary_key=True),
     Column('pronun', String(255)),
@@ -32,7 +32,7 @@ words2 = Table(
     Column('ssent', String(455)),
 )
 
-words2 = Table(
+words4 = Table(
     'oWords', meta,
     Column('word', String(355), primary_key=True),
     Column('pronun', String(255)),
@@ -40,7 +40,7 @@ words2 = Table(
     Column('ssent', String(455)),
 )
 
-words2 = Table(
+words5 = Table(
     'uWords', meta,
     Column('word', String(355), primary_key=True),
     Column('pronun', String(255)),

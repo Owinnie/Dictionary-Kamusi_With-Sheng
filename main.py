@@ -14,6 +14,8 @@ words = Table(
     Column('pronun', String(255)),
     Column('def', String(555)),
     Column('ssent', String(455)),
+    Column('Swa', String(355)),
+    Column('Sheng', String(355)),
 )
 
 words2 = Table(
@@ -22,6 +24,8 @@ words2 = Table(
     Column('pronun', String(255)),
     Column('def', String(555)),
     Column('ssent', String(455)),
+    Column('Swa', String(355)),
+    Column('Sheng', String(355)),
 )
 
 words3 = Table(
@@ -30,6 +34,8 @@ words3 = Table(
     Column('pronun', String(255)),
     Column('def', String(555)),
     Column('ssent', String(455)),
+    Column('Swa', String(355)),
+    Column('Sheng', String(355)),
 )
 
 words4 = Table(
@@ -38,6 +44,8 @@ words4 = Table(
     Column('pronun', String(255)),
     Column('def', String(555)),
     Column('ssent', String(455)),
+    Column('Swa', String(355)),
+    Column('Sheng', String(355)),
 )
 
 words5 = Table(
@@ -46,5 +54,7 @@ words5 = Table(
     Column('pronun', String(255)),
     Column('def', String(555)),
     Column('ssent', String(455)),
+    Column('Swa', String(355)),
+    Column('Sheng', String(355)),
 )
 meta.create_all(engine)

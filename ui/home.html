@@ -1,0 +1,106 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <title>Dictionary Kamusi With Sheng</title>
+    <link>
+    <script></script>
+    <style>
+      main {
+        text-align: center;
+      }
+      #wordLists {
+        display: table;
+        margin: 0 auto;
+        text-align: left;
+        line-height: 250%;
+        list-style-type: square;
+      }
+      #nav {
+        letter-spacing: 15px;
+        background-color: #ACEEEB;
+      }
+      a {
+        text-decoration: none;
+      }
+      .box {
+        margin-right:auto;
+        margin-left:auto;
+        width: 500px;
+      }
+      form {
+        background-color: #4654e1;
+        width: 500px;
+        height: 80px;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+      }
+      input {
+        all: unset;
+        font: 16px system-ui;
+        color: #fff;
+        height: 100%;
+        width: 100%;
+        padding: 6px 10px;
+      }
+      ::placeholder {
+        color: #fff;
+        opacity: 0.7;
+      }
+      button {
+        all: unset;
+        cursor: pointer;
+        width: 44px;
+        height: 44px;
+      }
+      img {
+        color: #fff;
+        fill: currentColor;
+        width: 24px;
+        height: 24px;
+        padding: 10px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <main>
+    <div id="heading">
+      <h1>Dictionary Kamusi With Sheng</h1>
+      <i>Triolingo 3-in-1: learn a language using words</i>
+    </div>
+    <br><br>
+
+    <div class="box">
+      <form id="form" role="search">
+        <input type="search" name="q" placeholder="search" id="query" aria-label="Search for words">
+        <button><img src="images/search.png"></button>
+      </form>
+    </div>
+    <br>
+
+    <div>
+      <h2>Words starting with A</h2>
+      <ul id="nav">
+        <li style="display:inline"><a href="">A</a></li>
+        <li style="display:inline"><a href="">E</a></li>
+        <li style="display:inline"><a href="">I</a></li>
+        <li style="display:inline"><a href="">O</a></li>
+        <li style="display:inline"><a href="">U</a></li>
+      </ul>
+
+      <ul id="wordLists">
+        <li><a href="">a</a></li>
+        <li><a href="">ability</a></li>
+        <li><a href="">accept</a></li>
+        <li><a href="">add</a></li>
+        <li><a href="">afraid</a></li>
+      </ul>
+    </div>
+
+    <script></script>
+  </main>
+  </body>
+</html>

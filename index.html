@@ -3,12 +3,27 @@
   <head>
     <meta charset='UTF-8'>
     <title>Dictionary Kamusi With Sheng</title>
+    <link rel="icon" href="ui/images/favcon.png" type="image/png">
     <link rel="stylesheet" href="ui/styles/color.css">
     <script></script>
   </head>
 
   <body>
     <main>
+    <section>
+      <nav class="leftlefttdiv">
+        <map name ="logo">
+          <a><area shape="circle" coords="65,65,65" href="index.html" alt="Home page"></a>
+        </map>
+        <a href="index.html"><img usemap="#logo" src="ui/images/favcon.png" alt="Triolingo logo" width="50" height="50"></a>
+      </nav>
+    
+      <nav class="leftlefttdiv">
+        <p style="line-height: 0.7"><a id="navStyle" href="index.html">triolingo</a></p>
+      </nav>
+    </section>
+    <br>
+      
     <div id="heading">
       <h1>Dictionary Kamusi With Sheng</h1>
       <i>Triolingo 3-in-1: learn a language using words</i>
@@ -17,8 +32,9 @@
 
     <div class="box">
       <form id="form" role="search">
+        <label for="query"><img src="ui/images/search.png"> </label>
         <input type="search" name="q" placeholder="google search" id="query" aria-label="Search for words">
-        <button><img src="ui/images/search.png"></button>
+        <button><img src="ui/images/favcon.png"></button>
       </form>
     </div>
     <br>
@@ -44,5 +60,21 @@
 
     <script src="ui/styles/resp.js"></script>
   </main>
+  <footer style="padding:20px">
+    <p>Say Hi: <a href="https://www.linkedin.com/in/owinnie/">Contact Me</a>
+    
+    <br><br>
+  
+    <section>
+        <map name ="flogo">
+            <a title="triolingo logo"><area shape="circle" coords="75,75,75" href="index.html" alt="Home page"></a>
+        </map>
+    
+        <a title="triolingo logo" href="index.html"><img usemap="#flogo" src="ui/images/triolingo.png" title="triolingo logo" alt="trio logo" width="112" height="35"></a>
+    </section>
+  
+    <br><br>
+    <br><br>
+  </footer>
   </body>
 </html>

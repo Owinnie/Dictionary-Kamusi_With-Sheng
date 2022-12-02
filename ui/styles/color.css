@@ -15,8 +15,11 @@ main {
     float: right;
     position: relative;
 }
+.headback {
+    background-color: #262728;
+}
 #navStyle {
-    color: black;
+    color: white;
     text-decoration:none;
     font-size: 1.3rem;
 }

@@ -6,6 +6,11 @@ body {
 main {
         text-align: center;
       }
+.leftlefttdiv {
+    float: left;
+    padding: 5px;
+    position: relative;
+}
 #wordLists {
         display: table;
         margin: 0 auto;

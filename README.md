@@ -1,23 +1,24 @@
 # triolingo [Dictionary Kamusi With Sheng]
 <p align="center">
   <a href="https://owinnie.github.io/Triolingo/"><img src="https://github.com/Owinnie/Triolingo/blob/main/ui/images/readme_trio.png" width="700" height="350" alt="An image of Triolingo website"></img></a>
-<br />Triolingo enables you to learn 3 languages all at once. Compare English, Swahili, and Slang [Sheng] all at once.
+<br />Triolingo enables you to learn 3 languages all at once. Compare English, Swahili, and Slang [Sheng] at the same place.
 </p>
 
 # Introduction [my inspiration story]
 - I am an online dictionary containing 3 languages namely: English, Swahili AKA Kiswahili, and Sheng [the Kenyan slang].
 - I was created to be used by:
-<ul>
+	<ul>
 	<li> A person having difficulty translating from one of the 3 languages to another.</li>
 	<li> A person who wants to learn any of the listed languages.</li>
 	<li> Someone who wants to embrace and continually use the 3 listed languages.</li>
-</ul>
+	</ul>
 - I was born from the idea of having a reference to the key languages spoken in my country.
 - Thus I am also called 3-in-1 aka Triolingo.
+<br>
 
-<p><a href="https://owinnie.github.io/Triolingo/" target="_blank" rel="noopener noreferrer">Check out Triolingo</a></p>
-<p><a href="https://studymasterguide.com/temp/port-folio-stories/trio.html" target="_blank" rel="noopener noreferrer">Read more about Triolingo</a></p>
-<p><a href="https://www.linkedin.com/in/owinnie/" target="_blank" rel="noopener noreferrer">Author(s) linkedin</a></p>
+<p> <a href="https://owinnie.github.io/Triolingo/" target="_blank" rel="noopener noreferrer">Check out Triolingo</a></p>
+<p> <a href="https://studymasterguide.com/temp/port-folio-stories/trio.html" target="_blank" rel="noopener noreferrer">Read more about Triolingo</a></p>
+<p> <a href="https://www.linkedin.com/in/owinnie/" target="_blank" rel="noopener noreferrer">Author(s) linkedin</a></p>
 
 # Installation
 - There are 2 ways to install Triolingo:

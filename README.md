@@ -17,7 +17,7 @@
 <br>
 
 <p> <a href="https://owinnie.github.io/Triolingo/" target="_blank" rel="noopener noreferrer">Check out Triolingo</a></p>
-<p> <a href="https://studymasterguide.com/temp/port-folio-stories/trio.html" target="_blank" rel="noopener noreferrer">Read more about Triolingo</a></p>
+<p> <a href="https://studymasterguide.com/temp/port-folio-stories/beginners-guide-to-creating-a-website-with-only-HTML-CSS-JS.html" target="_blank" rel="noopener noreferrer">Read more about Triolingo</a></p>
 <p> <a href="https://www.linkedin.com/in/owinnie/" target="_blank" rel="noopener noreferrer">Author(s) linkedin</a></p>
 
 # Installation
